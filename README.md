@@ -1,6 +1,14 @@
 ## Репозиторий содержит следующие проекты:
 
-1. **Images texts matches**
+1. **Hypothesis testing - scooter rental service**
+   
+   <https://github.com/Nvazhenina/Data_science_projects/tree/main/Hypothesis%20testing%20-%20scooter%20rental%20service>
+
+   Статистический анализ данных сервиса аренды самокатов
+
+   Стек: EDA, Тестирование гипотез, ttest_ind, ttest_samp.
+
+2. **Images texts matches**
    
    <https://github.com/Nvazhenina/Data_science_projects/tree/main/Images%20texts%20matches>
 
@@ -8,7 +16,7 @@
 
    Стек: ResNet50, BERT, GradientBoostingRegressor, RandomForestRegressor, CLIP, PyTorch.
 
-2. **Industry: alloy temperature prediction**
+3. **Industry: alloy temperature prediction**
    
    <https://github.com/Nvazhenina/Data_science_projects/tree/main/Industry%20-%20alloy%20temperature%20prediction>
 
